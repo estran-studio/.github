@@ -9,7 +9,7 @@
   **Souveraineté Numérique. Code Libre. Éducation Populaire.**
 
   [![Website](https://img.shields.io/website?label=bascanada.org&style=for-the-badge&url=https%3A%2F%2Fbascanada.org)](https://bascanada.org)
-  [![Discord](https://img.shields.io/discord/123456789?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/D8g4nCUY)
+  [![Discord](https://img.shields.io/discord/1443669801460433123?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/GPG6kGUt)
   [![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](LICENSE)
 
   <p align="center">
@@ -55,7 +55,7 @@ Nous nous spécialisons dans la programmation système et la performance.
 La forge est ouverte. Que vous soyez un forgeron expérimenté (Senior Dev) ou un apprenti, vous avez votre place.
 
 1.  Lisez notre [Code de Conduite](CODE_OF_CONDUCT.md).
-2.  Rejoignez le [Discord](https://discord.gg/D8g4nCUY).
+2.  Rejoignez le [Discord](https://discord.gg/GPG6kGUt).
 3.  Cherchez les tickets marqués `good first issue`.
 
 <div align="center">
