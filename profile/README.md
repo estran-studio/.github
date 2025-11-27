@@ -55,7 +55,7 @@ Nous nous spécialisons dans la programmation système et la performance.
 La forge est ouverte. Que vous soyez un forgeron expérimenté (Senior Dev) ou un apprenti, vous avez votre place.
 
 1.  Lisez notre [Code de Conduite](CODE_OF_CONDUCT.md).
-2.  Rejoignez le [Discord](https://discord.gg/GPG6kGUt).
+2.  Rejoignez le [Discord](https://discord.gg/bfs9jxG7aX).
 3.  Cherchez les tickets marqués `good first issue`.
 
 <div align="center">
